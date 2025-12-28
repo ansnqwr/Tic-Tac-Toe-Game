@@ -1,0 +1,18 @@
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\bin\Debug\Tic_Tac_Toe Game.exe.config
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\bin\Debug\Tic_Tac_Toe Game.exe
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\bin\Debug\Tic_Tac_Toe Game.pdb
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\obj\Debug\Tic_Tac_Toe Game.csproj.AssemblyReference.cache
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\obj\Debug\Tic_Tac_Toe Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\obj\Debug\Tic_Tac_Toe_Game.Form1.resources
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\obj\Debug\Tic_Tac_Toe Game.csproj.GenerateResource.cache
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\obj\Debug\Tic_Tac_Toe Game.csproj.CoreCompileInputs.cache
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\obj\Debug\Tic_Tac_Toe Game.exe
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\obj\Debug\Tic_Tac_Toe Game.pdb
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\obj\Debug\Tic_Tac_Toe_Game.ChoiceMode.resources
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\obj\Debug\Tic_Tac_Toe_Game.StartGame.resources
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\obj\Debug\Tic_Tac_Toe_Game.Form2.resources
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\bin\Debug\Tic_Tac_Toe Game.exe.manifest
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\bin\Debug\Tic_Tac_Toe Game.application
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\obj\Debug\Tic_Tac_Toe Game.exe.manifest
+C:\Users\msi\Documents\Visual Studio 2022\Projects\C# Projects\Tic_Tac_Toe Game\obj\Debug\Tic_Tac_Toe Game.application
